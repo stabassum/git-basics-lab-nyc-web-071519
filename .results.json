@@ -1,0 +1,16 @@
+{
+  "stats": {
+    "suites": 0,
+    "tests": 0,
+    "passes": 0,
+    "pending": 0,
+    "failures": 0,
+    "start": "2020-12-19T21:37:24.967Z",
+    "end": "2020-12-19T21:37:24.972Z",
+    "duration": 5
+  },
+  "tests": [],
+  "pending": [],
+  "failures": [],
+  "passes": []
+}
